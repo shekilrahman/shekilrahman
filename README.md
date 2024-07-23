@@ -1,4 +1,4 @@
-# 💫About Me :
+# Hi there, I'm Shekil Rahman 👋
 I'm a B.Tech Computer Science student with a strong passion for web development. My journey in software development began with a curiosity about how things work and a drive to build innovative solutions from scratch.
 
 - 🔭 Currently diving deep into React and React Native.
