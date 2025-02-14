@@ -1,10 +1,9 @@
 # Hi there, I'm Shekil Rahman 👋
 I'm a B.Tech Computer Science student with a strong passion for web development. My journey in software development began with a curiosity about how things work and a drive to build innovative solutions from scratch.
 
-- 🔭 Currently diving deep into React and React Native.
-- 🌱 Committed to continuous learning and growth in the tech field.
-- 👯 Actively seeking collaboration on exciting open-source projects.
-- 💬 Feel free to ask me about web development, React, and React Native.
+- 🚀 Web, Desktop & Mobile Application Developer
+- 🎓 B.Tech in Computer Science Engineering (Ongoing)
+- 🔬 Passionate about research-driven development
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shekilrahman/) 
