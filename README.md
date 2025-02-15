@@ -72,7 +72,7 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 ---
 
 ## **📞 Contact Me**  
-💼 *LinkedIn*: ![](https://www.linkedin.com/in/shekil-rahman-7ba318343/) 
+💼 *LinkedIn*: ![LinkedIn](https://www.linkedin.com/in/shekil-rahman-7ba318343/) 
 
 ---
 
