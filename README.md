@@ -1,44 +1,84 @@
-# Hi there, I'm Shekil Rahman 👋
+# **Shekil Rahman**  
+### B.Tech Computer Science Student | Full-Stack Developer | Research Enthusiast  
 
-I'm a B.Tech Computer Science student with a strong passion for web development. My journey in software development began with a curiosity about how things work and a drive to build innovative solutions from scratch.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shekilrahman)  
+🌟 *"Stay consistent and keep contributing! Every commit counts."* 🚀  
 
-- 🚀 **Web, Desktop & Mobile Application Developer**
-- 🎓 **B.Tech in Computer Science Engineering (Ongoing)**
-- 🔬 **Passionate about research-driven development**
+---
 
-## 📊 GitHub Activity Graph
+## **👨‍💻 About Me**  
+I’m a passionate **B.Tech Computer Science student** with a strong focus on **web development** and **software engineering**. My journey began with a curiosity about how things work, and now I’m driven to build **innovative solutions** from scratch. I specialize in creating **web, desktop, and mobile applications** and have a keen interest in **research-driven development**.  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekilrahman&theme=react-dark&hide_border=true&area=true)
+---
 
+## **🛠️ Skills**  
 
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shekilrahman)
-
-# 💻 Tech Stack
-
-![Tauri](https://img.shields.io/badge/tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### **💻 Programming Languages**  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### **🌐 Web Development**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### **🗃️ Databases**  
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shekilrahman&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shekilrahman&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shekilrahman&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### **🛠️ Tools & Frameworks**  
+![Tauri](https://img.shields.io/badge/tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=white)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shekilrahman&icon=0&color=0)](https://visitcount.itsvg.in)
+## **🎓 Education**  
+- **B.Tech in Computer Science Engineering**  
+  *Ongoing*  
+  Specializing in software development, algorithms, and research-driven projects.  
+
+---
+
+## **🚀 Projects**  
+*(Add a brief description of your notable projects here. For example:)*  
+- **Project 1**: A full-stack web application built with React and Node.js.  
+- **Project 2**: A mobile app developed using Tauri for cross-platform compatibility.  
+- **Project 3**: Research-driven project on optimizing database performance.  
+
+*(You can link to your repositories or provide more details about each project.)*  
+
+---
+
+## **📊 GitHub Stats**  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekilrahman&theme=react-dark&hide_border=true&area=true)  
+
+![](https://github-readme-stats.vercel.app/api?username=shekilrahman&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=shekilrahman&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shekilrahman&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+---
+
+## **🏆 Achievements**  
+- Consistently contributing to open-source projects.  
+- Developed multiple web and mobile applications from scratch.  
+- Actively involved in research-driven development.  
+
+---
+
+## **📞 Contact Me**  
+📧 *Email*: [Your Email]  
+🔗 *Portfolio*: [Your Portfolio Link]  
+💼 *LinkedIn*: [Your LinkedIn Profile]  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=shekilrahman&icon=0&color=0)](https://visitcount.itsvg.in)  
+
+---
