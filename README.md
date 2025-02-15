@@ -5,6 +5,13 @@ I'm a B.Tech Computer Science student with a strong passion for web development.
 - 🎓 B.Tech in Computer Science Engineering (Ongoing)
 - 🔬 Passionate about research-driven development
 
+## 📊 GitHub Activity Graph
+## Currently working on Privete project
+[![Shekil Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekilrahman&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+🌟 *Stay consistent and keep contributing! Every commit counts.* 🚀
+
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shekilrahman/) 
 
