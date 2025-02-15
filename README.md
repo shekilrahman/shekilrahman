@@ -46,12 +46,11 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 ---
 
 ## **🚀 Projects**  
-*(Add a brief description of your notable projects here. For example:)*  
+
 - **Project 1**: A full-stack web application built with React and Node.js.  
 - **Project 2**: A mobile app developed using Tauri for cross-platform compatibility.  
 - **Project 3**: Research-driven project on optimizing database performance.  
 
-*(You can link to your repositories or provide more details about each project.)*  
 
 ---
 
@@ -73,9 +72,7 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 ---
 
 ## **📞 Contact Me**  
-📧 *Email*: [Your Email]  
-🔗 *Portfolio*: [Your Portfolio Link]  
-💼 *LinkedIn*: [Your LinkedIn Profile]  
+💼 *LinkedIn*: ![](https://www.linkedin.com/in/shekil-rahman-7ba318343/) 
 
 ---
 
