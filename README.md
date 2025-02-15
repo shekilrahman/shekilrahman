@@ -7,7 +7,7 @@ I'm a B.Tech Computer Science student with a strong passion for web development.
 
 ## 📊 GitHub Activity Graph
 ## Currently working on Privete project
-[![Shekil Rahman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekilrahman&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekilrahman&theme=react-dark&hide_border=true&area=true)]
 
 🌟 *Stay consistent and keep contributing! Every commit counts.* 🚀
 
