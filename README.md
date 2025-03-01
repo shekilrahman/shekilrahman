@@ -41,7 +41,7 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 ## **🎓 Education**  
 - **B.Tech in Computer Science Engineering**  
   *Ongoing*  
-  Specializing in software development, algorithms, and research-driven projects.  
+  Self-Study (Specializing in software development, algorithms, and research-driven projects) 
 
 ---
 
