@@ -75,6 +75,5 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shekilrahman&icon=0&color=0)](https://visitcount.itsvg.in) 
-
+  <img src="https://profile-counter.glitch.me/shekilrahman/count.svg" alt="Visitor Counter">
 ---
