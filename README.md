@@ -20,7 +20,7 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
     Always cheering from the sidelines while I code through the night. 💖👩‍💻</p>
   </div>
   <div style="flex: 0 0 auto; margin-left: 20px;">
-    <img src="./gfs.png" alt="My Pretty Little Baby" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+    <img src="./gf.png" alt="My Pretty Little Baby" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
   </div>
 </div>
 
