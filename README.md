@@ -12,8 +12,17 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 ---
 
 ## **💖 My Pretty Little Baby**  
-![My Pretty Little Baby](./gf.png)  
-> *Here's my lovely GFS — my pretty little baby who brings smiles to my busy days.* 🌸💻
+
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 250px; font-size: 16px;">
+    <p><strong>Here’s to my pretty little baby,</strong><br>
+    the sunshine in my deadlines, the smile behind the screen.  
+    Always cheering from the sidelines while I code through the night. 💖👩‍💻</p>
+  </div>
+  <div style="flex: 0 0 auto; margin-left: 20px;">
+    <img src="./gfs.png" alt="My Pretty Little Baby" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
+  </div>
+</div>
 
 
 ## **🛠️ Skills**  
