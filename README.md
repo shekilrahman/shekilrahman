@@ -27,7 +27,7 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 
 ## 🌸✨ About My Beloved ✨🌸
 
-<table align="center" style="border:0;">
+<table align="center" style="border-collapse: collapse; border: none;">
 <tr>
 <td width="50%" valign="top">
 
@@ -62,7 +62,6 @@ console.log(`I love ${myLove.name} more than code! 💖`);
 **💻 The smile behind my screen 💻**  
 **🌙 My companion through coding nights 🌙**
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hearts.svg" width="100%"/>
 
 </td>
 </tr>
@@ -99,34 +98,6 @@ console.log(`I love ${myLove.name} more than code! 💖`);
   ![Gratitude](https://img.shields.io/badge/Gratitude-Overflowing-ffa8cc?style=for-the-badge&logo=gift&logoColor=white)
   
 </div>
-
----
-
-## 🌺 Our Love Story in Code 🌺
-
-```python
-class OurLoveStory:
-    def __init__(self):
-        self.beginning = "Once upon a time..."
-        self.present = "Coding together, loving forever"
-        self.future = "Happy ever after 💕"
-    
-    def daily_routine(self):
-        while True:
-            love = self.express_love()
-            support = self.provide_support()
-            happiness = love + support
-            return happiness * infinity
-    
-    def express_love(self):
-        print("💖 I love you more each day! 💖")
-        return "endless_love"
-
-my_story = OurLoveStory()
-print(f"Every day with you: {my_story.daily_routine()}")
-```
-
----
 
 <div align="center">
   
