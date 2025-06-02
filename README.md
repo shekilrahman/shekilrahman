@@ -14,7 +14,7 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 # 💖 My Pretty Little Baby
 
 <div align="right">
-  <img src="./gf.png" alt="My Pretty Little Baby" width="200"/>
+  <img src="./gf.png" alt="My Pretty Little Baby" width="250"/>
   <div align="left">
     
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=💖+Pretty+little+baby,+you+say+that+maybe;💭+You'll+be+thinkin'+of+me,+and+try+to+love+me;💕+Pretty+little+baby,+I'm+hoping+that+you+do;🎶+Ooh-ooh-ooh,+yeah;🌸+You+can+ask+the+flowers,+I+sit+for+hours;🐦+Tellin'+all+the+bluebirds,+the+bill+and+coo+birds;💘+Pretty+little+baby,+I'm+so+in+love+with+you;🎵+Ooh-ooh-ooh)
