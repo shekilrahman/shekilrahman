@@ -26,7 +26,7 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 
   <!-- Right Side: Avatar -->
   <div style="flex-shrink: 0;">
-    <img src="./gfs-cutout.png" alt="My Pretty Little Baby" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="./gf.png" alt="My Pretty Little Baby" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
 
 </div>
