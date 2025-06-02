@@ -27,45 +27,26 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 
 ## 🌸✨ About My Beloved ✨🌸
 
-<table align="center" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="50%" valign="top">
+<table align="center" border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
 
-### 💕 My Pretty Little Baby 💕
+      <h3>💕 My Pretty Little Baby 💕</h3>
 
-```javascript
-const myLove = {
-  name: "My Pretty Little Baby",
-  role: "💖 Heart & Soul 💖",
-  superpowers: [
-    "🌟 Brightening my darkest code",
-    "☀️ Being my daily sunshine",
-    "🌙 Staying up through coding nights",
-    "💪 Cheering from the sidelines",
-    "✨ Making everything magical"
-  ],
-  loveLevel: "∞ Infinite ∞",
-  status: "Forever & Always 💍"
-};
+      <p><strong>🌹 The sunshine in my deadlines 🌹</strong><br>
+      <strong>💻 The smile behind my screen 💻</strong><br>
+      <strong>🌙 My companion through coding nights 🌙</strong></p>
 
-console.log(`I love ${myLove.name} more than code! 💖`);
-```
+    </td>
+    <td width="50%" valign="top" align="center" style="border: none;">
 
-</td>
-<td width="50%" valign="top" align="center">
+      <img src="./gf.png" alt="My Pretty Little Baby" width="200" 
+      style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 105, 180, 0.3);"/>
 
-<img src="./gf.png" alt="My Pretty Little Baby" width="200" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 105, 180, 0.3);"/>
-
-<br><br>
-
-**🌹 The sunshine in my deadlines 🌹**  
-**💻 The smile behind my screen 💻**  
-**🌙 My companion through coding nights 🌙**
-
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
