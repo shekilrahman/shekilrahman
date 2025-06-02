@@ -11,6 +11,11 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 
 ---
 
+## **💖 My Pretty Little Baby**  
+![My Pretty Little Baby](./gf.png)  
+> *Here's my lovely GFS — my pretty little baby who brings smiles to my busy days.* 🌸💻
+
+
 ## **🛠️ Skills**  
 
 ### **💻 Programming Languages**  
