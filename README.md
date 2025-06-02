@@ -28,23 +28,23 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 ## 🌸✨ About My Beloved ✨🌸
 
 <table align="center" border="0" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" valign="top" style="border: none;">
+<tr style="border: none;">
+<td width="50%" valign="top" style="border: none;">
 
-      <h3>💕 My Pretty Little Baby 💕</h3>
+### 💕 My Pretty Little Baby 💕
 
-      <p><strong>🌹 The sunshine in my deadlines 🌹</strong><br>
-      <strong>💻 The smile behind my screen 💻</strong><br>
-      <strong>🌙 My companion through coding nights 🌙</strong></p>
+**🌹 The sunshine in my deadlines 🌹**  
+**💻 The smile behind my screen 💻**  
+**🌙 My companion through coding nights 🌙**
 
-    </td>
-    <td width="50%" valign="top" align="center" style="border: none;">
 
-      <img src="./gf.png" alt="My Pretty Little Baby" width="200" 
-      style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 105, 180, 0.3);"/>
+</td>
+<td width="50%" valign="top" align="center" style="border: none;">
 
-    </td>
-  </tr>
+<img src="./gf.png" alt="My Pretty Little Baby" width="200" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 105, 180, 0.3);"/>
+
+</td>
+</tr>
 </table>
 
 
