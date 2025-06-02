@@ -16,39 +16,11 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Here's+to+my+pretty+little+baby+💖;The+sunshine+in+my+deadlines+☀️;My+coding+companion+through+the+night+🌙)
-  
+  <img src="./gf.png" alt="My Pretty Little Baby" width="200"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=heart&color=gradient&customColorList=12&height=100&section=header&text=&fontSize=0" width="100%"/>
-</div>
-
-## 🌸✨ About My Beloved ✨🌸
-
-<table align="center" border="0" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="50%" valign="top" style="border: none;">
-
-### 💕 My Pretty Little Baby 💕
-
-**🌹 The sunshine in my deadlines 🌹**  
-**💻 The smile behind my screen 💻**  
-**🌙 My companion through coding nights 🌙**
-
-
-</td>
-<td width="50%" valign="top" align="center" style="border: none;">
-
-<img src="./gf.png" alt="My Pretty Little Baby" width="200" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 105, 180, 0.3);"/>
-
-</td>
-</tr>
-</table>
-
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=60&section=header&text=&fontSize=0" width="100%"/>
@@ -95,13 +67,6 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 </div>
 
 <div align="center">
-  
-  **🌸 "In a world full of code, you're my favorite syntax" 🌸**
-  
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif" width="300"/>
-  
-  ---
-  
   <sub>💕 Created with infinite love and countless heart emojis 💕</sub>
   
 </div>
