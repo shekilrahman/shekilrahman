@@ -11,26 +11,148 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 
 ---
 
-<h2>💖 My Pretty Little Baby</h2>
+# 💖 My Pretty Little Baby
 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Here's+to+my+pretty+little+baby+💖;The+sunshine+in+my+deadlines+☀️;My+coding+companion+through+the+night+🌙)
+  
+</div>
 
-  <!-- Left Side: Caption -->
-  <div style="flex: 1; min-width: 250px; font-size: 16px;">
-    <p style="margin: 0;">
-      <strong>Here’s to my pretty little baby 💖</strong><br>
-      The sunshine in my deadlines, the smile behind my screen.<br>
-      Always cheering from the sidelines while I code through the night. 👩‍💻🌙
-    </p>
-  </div>
+---
 
-  <!-- Right Side: Avatar -->
-  <div style="flex-shrink: 0;">
-    <img src="./gf.png" alt="My Pretty Little Baby" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=heart&color=gradient&customColorList=12&height=100&section=header&text=&fontSize=0" width="100%"/>
+</div>
+
+## 🌸✨ About My Beloved ✨🌸
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💕 My Pretty Little Baby 💕
+
+```javascript
+const myLove = {
+  name: "My Pretty Little Baby",
+  role: "💖 Heart & Soul 💖",
+  superpowers: [
+    "🌟 Brightening my darkest code",
+    "☀️ Being my daily sunshine",
+    "🌙 Staying up through coding nights",
+    "💪 Cheering from the sidelines",
+    "✨ Making everything magical"
+  ],
+  loveLevel: "∞ Infinite ∞",
+  status: "Forever & Always 💍"
+};
+
+console.log(`I love ${myLove.name} more than code! 💖`);
+```
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="./gf.png" alt="My Pretty Little Baby" width="200" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(255, 105, 180, 0.3);"/>
+
+<br><br>
+
+**🌹 The sunshine in my deadlines 🌹**  
+**💻 The smile behind my screen 💻**  
+**🌙 My companion through coding nights 🌙**
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hearts.svg" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=60&section=header&text=&fontSize=0" width="100%"/>
+</div>
+
+## 💝 Why She's Amazing 💝
+
+<div align="center">
+
+| 🌟 Quality | 💖 Description | ✨ Impact |
+|:---:|:---:|:---:|
+| **Supportive** | Always cheering me on | Keeps me motivated 💪 |
+| **Understanding** | Patient with my coding hours | Makes long nights bearable 🌙 |
+| **Inspiring** | Brightens every deadline | Turns stress into joy ☀️ |
+| **Loving** | Unconditional love & care | My heart's safe haven 🏠 |
 
 </div>
 
+---
+
+<div align="center">
+  
+  ### 🎀 Love Stats 🎀
+  
+  ![Love](https://img.shields.io/badge/Love-∞%25-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
+  ![Support](https://img.shields.io/badge/Support-100%25-ff1493?style=for-the-badge&logo=hands-helping&logoColor=white)
+  ![Happiness](https://img.shields.io/badge/Happiness-Maximum-ff6b6b?style=for-the-badge&logo=smile&logoColor=white)
+  ![Gratitude](https://img.shields.io/badge/Gratitude-Overflowing-ffa8cc?style=for-the-badge&logo=gift&logoColor=white)
+  
+</div>
+
+---
+
+## 🌺 Our Love Story in Code 🌺
+
+```python
+class OurLoveStory:
+    def __init__(self):
+        self.beginning = "Once upon a time..."
+        self.present = "Coding together, loving forever"
+        self.future = "Happy ever after 💕"
+    
+    def daily_routine(self):
+        while True:
+            love = self.express_love()
+            support = self.provide_support()
+            happiness = love + support
+            return happiness * infinity
+    
+    def express_love(self):
+        print("💖 I love you more each day! 💖")
+        return "endless_love"
+
+my_story = OurLoveStory()
+print(f"Every day with you: {my_story.daily_routine()}")
+```
+
+---
+
+<div align="center">
+  
+  ## 🌹 Special Message 🌹
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=25&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Thank+you+for+being+my+everything+💖;You+make+every+line+of+code+worthwhile;Forever+grateful+for+your+love+and+support;My+pretty+little+baby+💕" />
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=heart&color=gradient&customColorList=12&height=100&section=footer&text=Made+with+💖+for+my+beloved&fontSize=16&fontColor=ffffff" width="100%"/>
+</div>
+
+<div align="center">
+  
+  **🌸 "In a world full of code, you're my favorite syntax" 🌸**
+  
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif" width="300"/>
+  
+  ---
+  
+  <sub>💕 Created with infinite love and countless heart emojis 💕</sub>
+  
+</div>
 
 
 ## **🛠️ Skills**  
