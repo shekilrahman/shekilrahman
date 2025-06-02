@@ -27,7 +27,7 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 
 ## 🌸✨ About My Beloved ✨🌸
 
-<table align="center">
+<table align="center" style="border:0;">
 <tr>
 <td width="50%" valign="top">
 
