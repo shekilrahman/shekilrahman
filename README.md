@@ -75,7 +75,3 @@ I’m a passionate **B.Tech Computer Science student** with a strong focus on **
 ---
 
   <img src="https://profile-counter.glitch.me/shekilrahman/count.svg" alt="Visitor Counter">
----
-
-
-REMOVE THE PRETTY LIITLE BABY OR MY GIRLFRIENDS PART AND MAKE THE FULL README AS A PROFESSIONAL LIKE AND ALSO A PROTFOLIO TYPE SO ICAN SEND THE LINK TO MY CLIENTS
