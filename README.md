@@ -6,10 +6,6 @@
 
 ---
 
-## **👨‍💻 About Me**  
-I’m a passionate **B.Tech Computer Science student** with a strong focus on **web development** and **software engineering**. My journey began with a curiosity about how things work, and now I’m driven to build **innovative solutions** from scratch. I specialize in creating **web, desktop, and mobile applications** and have a keen interest in **research-driven development**.  
----
-
 ## **🛠️ Skills**  
 
 ### **💻 Programming Languages**  
