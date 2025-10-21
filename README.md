@@ -5,7 +5,7 @@
 
 ---
 
-## Chief Technology Officer @ Tentacles Pvt Ltd
+## Chief Technology Officer
 
 As Chief Technology Officer at Tentacles Private Limited, I spearhead product architecture and technical strategy with a dedicated focus on building robust, scalable systems. My expertise lies in creating solutions that balance cutting-edge innovation with practical efficiency, emphasizing **scalability, performance, and design clarity** throughout the development lifecycle.
 
