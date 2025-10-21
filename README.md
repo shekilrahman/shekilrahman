@@ -1,73 +1,81 @@
-# **Shekil Rahman**  
-### B.Tech Computer Science Student | Full-Stack Developer | Research Enthusiast  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shekilrahman)  
-🌟 *"Stay consistent and keep contributing! Every commit counts."* 🚀  
-
----
-
-## **🛠️ Skills**  
-
-### **💻 Programming Languages**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### **🌐 Web Development**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-### **🗃️ Databases**  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **🛠️ Tools & Frameworks**  
-![Tauri](https://img.shields.io/badge/tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=white)
-
----
-
-## **🎓 Education**  
-- **B.Tech in Computer Science Engineering**  
-  *Ongoing*  
-  Self-Study (Specializing in software development, algorithms, and research-driven projects) 
-
----
-
-## **🚀 Projects**  
-
-- **Project 1**: A full-stack web application built with React and Node.js.  
-- **Project 2**: A mobile app developed using Tauri for cross-platform compatibility.  
-- **Project 3**: Research-driven project on optimizing database performance.  
 
 
----
+# **Shekil Rahman**
 
-## **📊 GitHub Stats**  
+### **CTO @ Tentacles Private Limited** | Software Architect | Full-Stack Developer | Research & Innovation Leader
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shekilrahman&theme=react-dark&hide_border=true&area=true)  
+## [](https://instagram.com/shekilrahman) 💼 [**LinkedIn**](https://www.linkedin.com/in/shekil-rahman-7ba318343/)
 
-![](https://github-readme-stats.vercel.app/api?username=shekilrahman&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=shekilrahman&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shekilrahman&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
----
+🌟 *"Driving the technological vision and building scalable, resilient systems. Every architectural decision is a long-term commitment."* 🚀
 
-## **🏆 Achievements**  
-- Consistently contributing to open-source projects.  
-- Developed multiple web and mobile applications from scratch.  
-- Actively involved in research-driven development.  
+-----
 
----
+## **💡 Professional Focus & Expertise**
 
-## **📞 Contact Me**  
-💼 *LinkedIn*: [LinkedIn](https://www.linkedin.com/in/shekil-rahman-7ba318343/) 
+As the **Chief Technology Officer** at Tentacles Private Limited, I lead the company's technical strategy, architecture, and development teams. My focus is on **building high-performance, scalable software solutions** and fostering a culture of technical excellence and innovation.
 
----
+**Core Areas:**
 
-  <img src="https://profile-counter.glitch.me/shekilrahman/count.svg" alt="Visitor Counter">
+  * **Software Architecture & System Design:** Designing resilient, microservices-based, and performant full-stack systems.
+  * **Team Leadership & Technical Direction:** Guiding engineering teams, setting coding standards, and defining the long-term technology roadmap.
+  * **Full-Stack Development:** Hands-on expertise across the entire application stack, from modern front-end frameworks to robust back-end APIs and database optimization.
+  * **R\&D and Innovation:** Integrating cutting-edge research into practical product development.
+
+-----
+
+## **🛠️ Advanced Technical Stack**
+
+My experience spans enterprise-level system development and modern application architecture.
+
+### **💻 Languages & Runtimes**
+
+| Category | Stack |
+| :--- | :--- |
+| **Core Languages** |    |
+| **Web & Services** |   |
+
+### **🌐 Architecture & Frameworks**
+
+| Category | Stack |
+| :--- | :--- |
+| **Front-End** |    |
+| **Back-End** |  |
+| **Desktop/Cross-Platform** |  |
+
+### **🗃️ Databases & Data Engineering**
+
+*Experience with database sharding, optimization, and high-availability setups.*
+
+-----
+
+## **🚀 Key Projects & Contributions**
+
+  * **Tentacles Private Limited Platform:** Architected and led the development of the company's core platform, focusing on **microservices architecture, cloud-native deployment, and data security**.
+  * **Enterprise-Grade Full-Stack System:** Designed a scalable web application built with **React, Node.js (Express), and MongoDB** supporting millions of transactions.
+  * **Research-Driven Performance Tuning:** Implemented advanced strategies for **database and application performance optimization**, significantly reducing latency and improving throughput.
+
+-----
+
+## **📊 My Engineering Activity**
+
+Showcasing commitment to code quality and continuous development.
+
+-----
+
+## **🎓 Education & Continuous Learning**
+
+  - **B.Tech in Computer Science Engineering** *(Ongoing)*: Applying academic rigor to real-world software architecture and research challenges.
+  - **Continuous Professional Development**: Focused study on distributed systems, DevOps best practices, and enterprise security.
+
+-----
+
+## **🤝 Connect with Me**
+
+I'm always open to discussing technology strategy, architectural challenges, and future innovations.
+
+**Email (Placeholder):** shekil.rahman@tentacles.com (Consider adding a professional contact email)
+
+-----
+
+\<img src="[https://profile-counter.glitch.me/shekilrahman/count.svg](https://profile-counter.glitch.me/shekilrahman/count.svg)" alt="Visitor Counter"\>
+
