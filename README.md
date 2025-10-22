@@ -1,7 +1,9 @@
 # Shekil Rahman
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shekil-rahman-7ba318343/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple?style=flat&logo=instagram)](https://instagram.com/shekilrahman)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:shekilrahman@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=shekilrahman&color=blueviolet&style=flat)
 
 ---
 
@@ -21,5 +23,4 @@ I believe in building technology solutions that not only solve immediate challen
 
 ---
 
- <a href='https://www.free-counters.org/'>www.Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d173b634612ba33b546f687245f75ca85b07bc77'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1417035/t/5"></script>
+![Visitor Count](https://profile-counter.glitch.me/shekilrahman/count.svg)
