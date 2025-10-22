@@ -22,5 +22,3 @@ I believe in building technology solutions that not only solve immediate challen
 *Open to strategic technology partnerships and innovative collaborations*
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/shekilrahman/count.svg)
