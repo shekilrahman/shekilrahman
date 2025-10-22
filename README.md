@@ -18,3 +18,8 @@ I believe in building technology solutions that not only solve immediate challen
 ---
 
 *Open to strategic technology partnerships and innovative collaborations*
+
+---
+
+ <a href='https://www.free-counters.org/'>www.Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=d173b634612ba33b546f687245f75ca85b07bc77'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1417035/t/5"></script>
